@@ -1,0 +1,10 @@
+**/odoo-17.0
+**/.DS_Store
+**/.vscode
+**/logs
+**/.venv
+**/runtime
+**/__pycache__
+**/.env
+**/poetry.lock
+**/superset_config.py
