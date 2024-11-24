@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "superset-py"
+version = "0.1.0"
+description = ""
+authors = ["binhnguyen00 <jackjack2000.kahp@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+apache-superset = "^4.1.0"
+psycopg2-binary = "^2.9.10"
+pillow = "^11.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
